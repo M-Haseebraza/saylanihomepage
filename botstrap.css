@@ -1,0 +1,106 @@
+.d-block{
+    height: 80vh!important;
+
+}
+marquee{
+    background-color: rgb(99, 99, 189);
+    color: whitesmoke;
+}
+.intro{
+    background-color:whitesmoke;
+    /* text-align: center; */
+   
+}
+.title{
+    color: green;
+    
+}
+.sec{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0;
+    
+   
+}
+
+/* .col-1{
+    width: 500px;
+    height: 250px;
+} */
+.b-text{
+    color: rgb(99, 187, 99);
+}
+.b-p{
+    color: white;
+    font-family: cursive;
+    font-size: 50px;
+}
+#main{
+    background-color: rgb(50, 50, 196);
+    width: 100%;
+    /* height: 50%; */
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.b-r{
+   margin-top: 5%;
+   margin-bottom:5% ;
+}
+.box{
+    height: 170px;
+    background-color:white;
+    margin: 15px;
+    box-shadow: 2px 2px 2px 2px lightgray ;
+    
+}
+.coming{
+    padding: 20px;
+    background-color: whitesmoke;
+    margin: 10px;
+    
+    color: rgb(56, 56, 212);
+    font-size: large;
+     font-family: serif;
+     font-weight: 700;
+}
+.com{
+    height: 30vh;
+
+    margin-top:10px;
+    overflow: hidden;
+    color: darkgray;
+
+}
+h1,h2,h3,h4{
+    font-weight: 700;
+    color: rgb(56, 56, 212);
+    font-family: serif;
+}
+.b-icon{
+    width: 50px;
+    margin: 5px;
+}
+.b2-icon{
+    margin: 10px;
+}
+.b3-icon{
+    margin-left: 3px;
+}
+.fc{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-color: rgb(56, 56, 212) ;
+    padding-top: 10px;
+    color: white;
+    border-radius: 30px;
+}
+i{
+    cursor: pointer;
+}
+@media only screen and (max-width: 600px) {
+    nav {
+      display: none;
+    }
+  }
